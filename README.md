@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ahmad Aras
-- 👀 I’m interested in Web Development and API designing
+- 👋 Hi, I’m Ahmad a MERN Stack Developer, feel free to check my repos
+<!-- - 👀 I’m interested in Web Development and API designing
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me arasahmad000@gmail.com
+- 📫 How to reach me arasahmad000@gmail.com -->
 
 <!---
 Ahmad0811/Ahmad0811 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
