@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmad a MERN Stack Developer,
-- feel free to check my repos.
+ feel free to check my repos.
 <!-- - 👀 I’m interested in Web Development and API designing
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on ...
