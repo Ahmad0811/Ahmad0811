@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ahmad a MERN Stack Developer,
+- 👋 Hi, I’m Ahmad a Full Stack Developer,
  feel free to check my repos.
 <!-- - 👀 I’m interested in Web Development and API designing
 - 🌱 I’m currently learning Backend
